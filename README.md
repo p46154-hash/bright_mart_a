@@ -1,4 +1,3 @@
-# bright_mart_a
 import streamlit as st
 import pickle
 import numpy as np
